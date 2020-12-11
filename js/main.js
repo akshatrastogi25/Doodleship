@@ -1,5 +1,5 @@
 var obj = {}; //obj with all keypress functions
-
+jiugiyuft
 obj.reset = function()
 {
     alert(document.querySelector("#name").innerHTML + ", sorry! You DIED!")
